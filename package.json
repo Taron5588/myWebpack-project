@@ -12,9 +12,5 @@
     "error"
   ],
   "author": "T.Karapetyan taronvkarapetyan@gmail.com",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {}
+  "license": "ISC"
 }
