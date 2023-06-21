@@ -1,0 +1,16 @@
+{
+  "name": "firstwebpackproject",
+  "version": "1.0.0",
+  "description": "onlyOnePage",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack build"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "error"
+  ],
+  "author": "T.Karapetyan taronvkarapetyan@gmail.com",
+  "license": "ISC"
+}
