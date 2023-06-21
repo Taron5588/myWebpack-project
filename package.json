@@ -12,5 +12,13 @@
     "error"
   ],
   "author": "T.Karapetyan taronvkarapetyan@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.87.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
